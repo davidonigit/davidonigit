@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá 👋 eu sou o Davi<br>
+# Olá 👋
+eu sou o Davi<br>
 
 
 ## 🌐 Socials:
