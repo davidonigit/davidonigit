@@ -2,9 +2,19 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviduarteddf/) 
+[Portifolio](https://circular-evening-d18.notion.site/Davi-Duarte-de-Freitas-185f50c347178090bba1c972ee3a9df3)
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Game Developer
+Unreal Engine 5
+Godot
+
+## Dev
+Java
+Spring
+Python
+Django
+HTML, CSS, JS
 
 # 📚 Estou estudando atualmente sobre <br>
 <div style="display: inline_block"><br>
