@@ -12,13 +12,13 @@
 ### Godot
 
 ## ⌨️ Dev
-Java
+#### Java
 
-Python
+#### Python
 
-JavaScript
+#### JavaScript
 
-HTML, CSS
+#### HTML, CSS
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davidonigit&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
