@@ -7,18 +7,14 @@
 
 # 💻 Tech Stack:
 ## 🎮 Game Developer
-### Unreal Engine 5
-
-### Godot
+### Unity, Unreal Engine 5, Godot
 
 ## ⌨️ Dev
-#### Java
+#### Java, Spring Boot, Python, Django, JavaScript, PostgreSQL, Git
 
-#### Python
 
-#### JavaScript
-
-#### HTML, CSS
+## 💡 Interest
+### Game programming, System programming, Software Engineering
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davidonigit&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
